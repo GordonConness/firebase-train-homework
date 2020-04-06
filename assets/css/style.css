@@ -1,0 +1,33 @@
+body {
+	background-color: rgb(101, 87, 151);
+    font-family: 'Arial', serif;
+
+}
+
+.jumbotron {
+	background-color: #97786d;
+    color: #685626;
+    border: 5px solid black;
+    text-align: center;
+
+}
+
+.panel-footer {
+    background-color: #452436;
+    color: white;
+    border-top: 20px solid #26233B;
+
+}
+
+.h1 {
+
+    float: right;
+}
+
+
+th {
+    text-align: center;
+    border-bottom: 2px solid #000000 !important;
+    border-right: 2px solid #000000 !important;
+
+}
